@@ -7,8 +7,8 @@ import threading
 import time
 
 # Telegram bot token va chat ID
-BOT_TOKEN = 'Your Telegram Bot TOKEN'
-CHAT_ID = 'Your Telegram ID'
+BOT_TOKEN = '7737796421:AAFQOE5DU7xDKQIlRQad_34MT5c8e-DzvNg'
+CHAT_ID = '5940676703'
 SEND_PHOTO_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
 
 # O'yin parametrlari
